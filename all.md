@@ -1,6 +1,6 @@
 ---
 layout: page
-title: all
+title: all posts
 nav_order: 4
 ---
 

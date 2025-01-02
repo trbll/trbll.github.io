@@ -1,4 +1,4 @@
-title: "tyler bell: lil projects, lil thoughts"
+title: "tyler bell, lil site"
 author: "tyler bell"
 description: "lil projects, lil thoughts" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
@@ -40,3 +40,10 @@ defaults:
       type: post
     values:
       tags: Other
+
+# Specify the order of pages in the navigation
+header_pages:
+  - index.md
+  - projects.md
+  - thoughts.md
+  - all.md
