@@ -43,3 +43,13 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+.post-tags {
+    font-size: 0.8em;
+    color: #666;
+    font-weight: normal;
+}
+
+.post-tags .tag {
+    font-style: italic;
+}

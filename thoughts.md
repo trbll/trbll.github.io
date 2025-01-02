@@ -1,7 +1,6 @@
 ---
 layout: page
 title: thoughts
-nav_order: 3
 ---
 
 <ul class="post-list">

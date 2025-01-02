@@ -1,7 +1,6 @@
 ---
 layout: page
 title: projects
-nav_order: 2
 ---
 
 <ul class="post-list">
