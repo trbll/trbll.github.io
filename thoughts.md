@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thoughts
+title: thoughts
 nav_order: 3
 ---
 

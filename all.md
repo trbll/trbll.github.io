@@ -1,7 +1,7 @@
 ---
 layout: page
-title: All Posts
-nav_order: 1
+title: all
+nav_order: 4
 ---
 
 <ul class="post-list">

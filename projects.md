@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 nav_order: 2
 ---
 

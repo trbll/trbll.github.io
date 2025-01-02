@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-nav_order: 0
+title: home
+nav_order: 1
 ---
 
 Here you can say lots of fun things about your site.
