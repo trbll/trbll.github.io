@@ -3,8 +3,10 @@ layout: home
 title: home
 ---
 
-Here you can say lots of fun things about your site.
+👋 I'm Tyler Bell. I'm a professor at the University of Iowa.
 
-Maybe say a some things about yourself.
+💡 I make seemingly random lil projects and have lil thoughts.
 
-Or maybe what you plan to blog about.
+✨ They're usually about AI, VR/AR, HCI, 3D, and society.
+
+📚 This is my lil site to catalog and remember these lil thoughts and apps.
