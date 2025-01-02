@@ -63,8 +63,9 @@ hr {
 }
 
 .content-container {
-  background-color: #eeeeee;
-  border-radius: 12px;
-  padding: 20px;
+  background-color: #100D08;
+  border-radius: 20px;
+  padding: 15px;
   margin-bottom: 30px;
+  color: #F8F8F8;
 }
