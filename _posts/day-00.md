@@ -3,6 +3,7 @@ layout: post
 title: Day 00
 excerpt: "Welcome to my new lil site"
 tags: [project, thought, misc]
+date: 2025-01-01 12:00:00
 ---
 
 ## Day 00
