@@ -8,8 +8,9 @@ date: 2025-01-03 8:07:00
 
 ## Perfectly Meaningless Lives or Meaninglessly Perfect Lives?
 
-> "The highest purpose is to have no purpose at all."  
-> — John Cage
+> "The highest purpose is to have no purpose at all."
+>   
+> John Cage
 
 <img src="/assets/perfect-or-meaningless-lives/title-image.jpg" alt="Perfectly Meaningless Lives or Meaninglessly Perfect Lives?" style="width: 100%; display: block; margin: auto;">
 
