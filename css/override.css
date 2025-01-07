@@ -79,7 +79,7 @@ blockquote {
   color: #000000;
   padding: 30px;
   margin: 30px 0;
-  border-radius: 25px;  /* Made rounder to match image */
+  border-radius: 20px;  
   font-family: Georgia, serif;
   border-left: none;
 }
