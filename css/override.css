@@ -86,7 +86,6 @@ blockquote {
 
 blockquote p {
   margin: 0 !important;
-  font-size: 1.4em;
   line-height: 1.4;
 }
 
@@ -97,8 +96,7 @@ blockquote p:first-child {
 
 /* Style for the attribution line */
 blockquote p:last-child {
-  margin-top: 20px !important;
-  font-size: 1em;
+  margin-top: 14px !important;
   font-style: normal;
 }
 
