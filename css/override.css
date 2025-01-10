@@ -122,13 +122,12 @@ blockquote p:last-child em {
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 400px;  /* Set a fixed container height */
 }
 
 .media-item img {
   width: auto;
-  max-width: 200px;
-  height: 300px;  /* Set a fixed height for all images */
+  /* max-width: 200px; */
+  max-height: 300px; 
   object-fit: contain;  /* Changed from 'cover' to 'contain' to prevent cropping */
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.3);
