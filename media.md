@@ -117,6 +117,18 @@ Below is a sampling of the media that I've recently enjoyed or that has otherwis
       <p class="media-notes"></p>
    </div>
    <div class="media-item">
+      <img src="/assets/media/music/chromakopia.jpg" alt="Chromakopia (Tyler, The Creator)">
+      <p class="media-title">CHROMAKOPIA</p>
+      <p class="media-attribution">Tyler, The Creator (2024)</p>
+      <p class="media-notes"></p>
+   </div>
+   <div class="media-item">
+      <img src="/assets/media/music/rise-and-fall-of-a-midwest-princess.jpg" alt="Rise and Fall of a Midwest Princess (Chappell Roan)">
+      <p class="media-title">The Rise and Fall of a Midwest Princess</p>
+      <p class="media-attribution">Chappell Roan (2023)</p>
+      <p class="media-notes"></p>
+   </div>
+   <div class="media-item">
       <img src="/assets/media/music/moon-music.jpg" alt="Moon Music (Coldplay)">
       <p class="media-title">Moon Music</p>
       <p class="media-attribution">Coldplay (2024)</p>
