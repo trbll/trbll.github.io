@@ -104,3 +104,67 @@ blockquote p:last-child {
 blockquote p:last-child em {
   font-style: italic;
 }
+
+/* Media Grid Styles */
+.media-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 2rem;
+  margin-top: 0rem;
+  margin-bottom: 2rem;
+  background-color: #0B1215;  /* Matching your existing dark theme */
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.media-item {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 400px;  /* Set a fixed container height */
+}
+
+.media-item img {
+  width: auto;
+  max-width: 200px;
+  height: 300px;  /* Set a fixed height for all images */
+  object-fit: contain;  /* Changed from 'cover' to 'contain' to prevent cropping */
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  transition: transform 0.2s;
+}
+
+.media-item img:hover {
+  transform: scale(1.02);
+}
+
+.media-title {
+  margin-top: 0.5rem;
+  margin-bottom: 0.2rem;
+  font-size: 0.9rem;
+  color: #F8F8F8;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2em;
+}
+
+.media-attribution {
+  font-size: 0.8rem;
+  color: #F8F8F8;  
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+}
+
+.media-notes {
+  font-size: 0.8rem;
+  color: #BBB;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-style: normal;
+}
+
+.media-notes a {
+  color: #BBB;
+  text-decoration: underline;
+}
