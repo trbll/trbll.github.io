@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Perfectly Meaningless Lives or Meaninglessly Perfect Lives?
 excerpt: "'The highest purpose is to have no purpose at all.'"
 tags: [thought, ai, ubiquitous]
