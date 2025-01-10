@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Ubiquitous AI as a Medium
 excerpt: "The media are so pervasive in their personal, political, economic, aesthetic, psychological, moral, ethical, and social consequences that they leave no part of us untouched, unaffected, unaltered."
 tags: [thought, ai, ubiquitous]
