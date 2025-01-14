@@ -1,6 +1,6 @@
 ---
 layout: page
-title: media
+title: shelf
 ---
 Below is a sampling of the media that I've recently enjoyed or that has otherwise been important or influential to me. If it's on here, I'd likely recommend it.
 
