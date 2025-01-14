@@ -10,7 +10,7 @@ title: shelf
   <a href="#games">games</a>
 </nav>
 
-Below is a sampling of the media that I've recently enjoyed or that has otherwise been important or influential to me. If it's on here, I'd likely recommend it.
+Below is a sampling of the media that I've recently enjoyed or that has otherwise been important or influential to me. If it's on here, I'd likely recommend it. Will hopefully keep this up to date.
 
 ### <span id="books">books</span> <a href="#" class="back-to-top">↑</a>
 <div class="media-grid books">

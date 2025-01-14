@@ -134,22 +134,34 @@
   ],
   "games": [
     {
-      "image": "/assets/media/games/halo.jpg",
-      "title": "Halo: Combat Evolved",
-      "attribution": "Bungie (2001)",
-      "note": "The game that started it all. Played through again in 2024"
+      "image": "/assets/media/games/apex.jpg",
+      "title": "Apex Legends",
+      "attribution": "Xbox (2019)",
+      "note": "Pathfinder main. Playing since Day 1."
     },
     {
-      "image": "/assets/media/games/halo2.jpg",
-      "title": "Halo 2",
-      "attribution": "Bungie (2004)",
-      "note": "Best multiplayer experience of the series. Replayed campaign in 2024"
+      "image": "/assets/media/games/rocket-league.jpg",
+      "title": "Rocket League",
+      "attribution": "Xbox (2015)",
+      "note": "Playing since 2016."
     },
     {
-      "image": "/assets/media/games/halo3.jpg",
+      "image": "/assets/media/games/halo-3.jpg",
       "title": "Halo 3",
       "attribution": "Bungie (2007)",
-      "note": "Finish the fight. Replayed in 2024"
+      "note": ""
+    },
+    {
+      "image": "/assets/media/games/halo-2.jpg",
+      "title": "Halo 2",
+      "attribution": "Bungie (2004)",
+      "note": ""
+    },
+    {
+      "image": "/assets/media/games/halo-1.jpg",
+      "title": "Halo: Combat Evolved",
+      "attribution": "Bungie (2001)",
+      "note": ""
     }
   ]
 } 
