@@ -167,3 +167,49 @@ blockquote p:last-child em {
   color: #BBB;
   text-decoration: underline;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+.shelf-nav {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: #0B1215;
+  border-radius: 20px;
+}
+
+.shelf-nav a {
+  color: #F8F8F8;
+  text-decoration: none;
+  padding: 0.5rem;
+  transition: color 0.2s;
+}
+
+.shelf-nav a:hover {
+  color: #BBB;
+}
+
+/* Back to top arrow styling */
+.back-to-top {
+  float: right;
+  color: #BBB;
+  text-decoration: none;
+  font-size: 1.2em;
+  padding: 0 0.5rem;
+  transition: color 0.2s;
+}
+
+.back-to-top:hover {
+  color: #505050;
+}
+
+.back-to-top:visited {
+  color: #8b8b8b;
+}
+
+/* Ensure headers clear the floated back-to-top link */
+h3 {
+  clear: both;
+}

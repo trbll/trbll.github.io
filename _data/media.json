@@ -131,5 +131,25 @@
       "attribution": "Coldplay (2024)",
       "note": ""
     }
+  ],
+  "games": [
+    {
+      "image": "/assets/media/games/halo.jpg",
+      "title": "Halo: Combat Evolved",
+      "attribution": "Bungie (2001)",
+      "note": "The game that started it all. Played through again in 2024"
+    },
+    {
+      "image": "/assets/media/games/halo2.jpg",
+      "title": "Halo 2",
+      "attribution": "Bungie (2004)",
+      "note": "Best multiplayer experience of the series. Replayed campaign in 2024"
+    },
+    {
+      "image": "/assets/media/games/halo3.jpg",
+      "title": "Halo 3",
+      "attribution": "Bungie (2007)",
+      "note": "Finish the fight. Replayed in 2024"
+    }
   ]
 } 
