@@ -6,15 +6,15 @@ Below is a sampling of the media that I've recently enjoyed or that has otherwis
 
 ### books
 <div class="media-grid books">
-{% for book in site.data.media.books %}
+{% for item in site.data.media.books %}
    <div class="media-item">
-      <img src="{{ book.image }}" alt="{{ book.title }}">
-      <p class="media-title">{{ book.title }}</p>
-      <p class="media-attribution">{{ book.author }} ({{ book.year }})</p>
+      <img src="{{ item.image }}" alt="{{ item.title }}">
+      <p class="media-title">{{ item.title }}</p>
+      <p class="media-attribution">{{ item.attribution }}</p>
       <p class="media-notes">
-         {{ book.status }}
-         {% if book.links %}
-         {% for link in book.links %}
+         {{ item.note }}
+         {% if item.links %}
+         {% for link in item.links %}
          | <a href="{{ link.url }}" target="_blank">{{ link.text }}</a>
          {% endfor %}
          {% endif %}
@@ -25,36 +25,36 @@ Below is a sampling of the media that I've recently enjoyed or that has otherwis
 
 ### films
 <div class="media-grid films">
-{% for film in site.data.media.films %}
+{% for item in site.data.media.films %}
    <div class="media-item">
-      <img src="{{ film.image }}" alt="{{ film.title }}">
-      <p class="media-title">{{ film.title }}</p>
-      <p class="media-attribution">({{ film.year }})</p>
-      <p class="media-notes">{{ film.status }}{% if film.notes %}. {{ film.notes }}{% endif %}</p>
+      <img src="{{ item.image }}" alt="{{ item.title }}">
+      <p class="media-title">{{ item.title }}</p>
+      <p class="media-attribution">{{ item.attribution }}</p>
+      <p class="media-notes">{{ item.note }}</p>
    </div>
 {% endfor %}
 </div>
 
 ### shows
 <div class="media-grid tv">
-{% for show in site.data.media.shows %}
+{% for item in site.data.media.shows %}
    <div class="media-item">
-      <img src="{{ show.image }}" alt="{{ show.title }} (Season {{ show.season }})">
-      <p class="media-title">{{ show.title }}{% if show.season %} (Season {{ show.season }}){% endif %}</p>
-      <p class="media-attribution">{{ show.network }} ({{ show.year }})</p>
-      <p class="media-notes">{{ show.status }}</p>
+      <img src="{{ item.image }}" alt="{{ item.title }}">
+      <p class="media-title">{{ item.title }}</p>
+      <p class="media-attribution">{{ item.attribution }}</p>
+      <p class="media-notes">{{ item.note }}</p>
    </div>
 {% endfor %}
 </div>
 
 ### albums
 <div class="media-grid music">
-{% for album in site.data.media.albums %}
+{% for item in site.data.media.albums %}
    <div class="media-item">
-      <img src="{{ album.image }}" alt="{{ album.title }} ({{ album.artist }})">
-      <p class="media-title">{{ album.title }}</p>
-      <p class="media-attribution">{{ album.artist }} ({{ album.year }})</p>
-      <p class="media-notes">{{ album.notes }}</p>
+      <img src="{{ item.image }}" alt="{{ item.title }}">
+      <p class="media-title">{{ item.title }}</p>
+      <p class="media-attribution">{{ item.attribution }}</p>
+      <p class="media-notes">{{ item.note }}</p>
    </div>
 {% endfor %}
 </div>
