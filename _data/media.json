@@ -1,0 +1,169 @@
+{
+  "books": [
+    {
+      "title": "Stranger in a Strange Land",
+      "author": "Robert A. Heinlein",
+      "year": 1961,
+      "image": "/assets/media/books/stranger-in-a-strange-land.jpg",
+      "status": "Reading in 2025"
+    },
+    {
+      "title": "The Medium is the Massage",
+      "author": "Marshall McLuhan",
+      "year": 1967,
+      "image": "/assets/media/books/medium-is-the-massage.jpg",
+      "status": "Read in 2024",
+      "links": [
+        {
+          "text": "PDF",
+          "url": "https://archive.org/details/pdfy-vNiFct6b-L5ucJEa"
+        },
+        {
+          "text": "Audio",
+          "url": "https://open.spotify.com/album/68uoccswQmMV3mXIOoKPeW"
+        },
+        {
+          "text": "Film",
+          "url": "https://www.youtube.com/watch?v=cFwVCHkL-JU"
+        }
+      ]
+    },
+    {
+      "title": "The Creative Act: A Way of Being",
+      "author": "Rick Rubin",
+      "year": 2023,
+      "image": "/assets/media/books/the-creative-act.jpg",
+      "status": "Read in 2024"
+    },
+    {
+      "title": "Dust",
+      "subtitle": "Silo Series, Book 3",
+      "author": "Hugh Howey",
+      "year": 2013,
+      "image": "/assets/media/books/dust.jpg",
+      "status": "Read in 2024"
+    },
+    {
+      "title": "Shift",
+      "subtitle": "Silo Series, Book 2",
+      "author": "Hugh Howey",
+      "year": 2013,
+      "image": "/assets/media/books/shift.jpg",
+      "status": "Read in 2024"
+    },
+    {
+      "title": "Wool",
+      "subtitle": "Silo Series, Book 1",
+      "author": "Hugh Howey",
+      "year": 2011,
+      "image": "/assets/media/books/wool.jpg",
+      "status": "Read in 2024"
+    },
+    {
+      "title": "Ready Player Two",
+      "author": "Ernest Cline",
+      "year": 2020,
+      "image": "/assets/media/books/ready-player-two.jpg",
+      "status": "Read in 2024"
+    }
+  ],
+  "films": [
+    {
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "image": "/assets/media/films/dune-2.jpg",
+      "status": "Watched in 2024",
+      "notes": "Amazing on the Apple Vision Pro"
+    },
+    {
+      "title": "Dune: Part One",
+      "year": 2021,
+      "image": "/assets/media/films/dune.jpg",
+      "status": "Watched again in 2024",
+      "notes": "Amazing in 3D on the Apple Vision Pro"
+    }
+  ],
+  "shows": [
+    {
+      "title": "Severance",
+      "season": 2,
+      "network": "Apple TV+",
+      "year": 2025,
+      "image": "/assets/media/tv/severance-s2.jpg",
+      "status": "Watching in 2025"
+    },
+    {
+      "title": "Silo",
+      "season": 2,
+      "network": "Apple TV+",
+      "year": 2024,
+      "image": "/assets/media/tv/silo-s2.jpg",
+      "status": "Watched in 2024"
+    },
+    {
+      "title": "Workaholics",
+      "network": "Comedy Central",
+      "year": "2011-2017",
+      "image": "/assets/media/tv/workaholics.jpg",
+      "status": "Watched again in 2024"
+    },
+    {
+      "title": "Foundation",
+      "season": 2,
+      "network": "Apple TV+",
+      "year": 2023,
+      "image": "/assets/media/tv/foundation-s2.jpg",
+      "status": "Watched in 2024"
+    },
+    {
+      "title": "Foundation",
+      "season": 1,
+      "network": "Apple TV+",
+      "year": 2021,
+      "image": "/assets/media/tv/foundation-s1.jpg",
+      "status": "Watched in 2024"
+    },
+    {
+      "title": "Silo",
+      "season": 1,
+      "network": "Apple TV+",
+      "year": 2023,
+      "image": "/assets/media/tv/silo-s1.jpg",
+      "status": "Watched in 2023"
+    },
+    {
+      "title": "Severance",
+      "season": 1,
+      "network": "Apple TV+",
+      "year": 2022,
+      "image": "/assets/media/tv/severance-s1.jpg",
+      "status": "Watched in 2022"
+    }
+  ],
+  "albums": [
+    {
+      "title": "GNX",
+      "artist": "Kendrick Lamar",
+      "year": 2024,
+      "image": "/assets/media/music/gnx.jpg"
+    },
+    {
+      "title": "CHROMAKOPIA",
+      "artist": "Tyler, The Creator",
+      "year": 2024,
+      "image": "/assets/media/music/chromakopia.jpg"
+    },
+    {
+      "title": "The Rise and Fall of a Midwest Princess",
+      "artist": "Chappell Roan",
+      "year": 2023,
+      "image": "/assets/media/music/rise-and-fall-of-a-midwest-princess.jpg"
+    },
+    {
+      "title": "Moon Music",
+      "artist": "Coldplay",
+      "year": 2024,
+      "image": "/assets/media/music/moon-music.jpg"
+    }
+  ]
+} 
