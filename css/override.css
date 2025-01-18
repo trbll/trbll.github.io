@@ -263,3 +263,46 @@ h3 {
   text-decoration: none;
   margin-left: 5px;
 }
+
+/* Code block styling */
+pre.highlight,
+.highlight pre,
+pre.hljs {
+  background-color: rgb(255, 205, 0);
+  color: #000000;
+  padding: 30px;
+  margin: 30px 0;
+  border-radius: 20px;
+  border: none;
+  font-family: 'Monaco', 'Consolas', monospace;
+  font-size: 0.95em;
+  line-height: 1.4;
+}
+
+/* Override any syntax highlighting colors */
+.highlight span,
+.hljs,
+.hljs span,
+.hljs-symbol,
+.hljs-keyword {
+  color: #000000 !important;
+  background: none !important;
+  font-weight: normal !important;
+}
+
+/* Input/Output labels */
+.language-plaintext,
+code::before {
+  display: block;
+  color: #666;
+  font-size: 0.9em;
+  font-style: italic;
+  margin-bottom: 8px;
+}
+
+pre, code {
+  font-size: 15px;
+  border: 1px solid rgba(16, 16, 16, 1.0);
+  border-radius: 3px;
+  background-color: rgba(255, 205, 0, 0.03);
+}
