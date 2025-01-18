@@ -213,3 +213,53 @@ html {
 h3 {
   clear: both;
 }
+
+/* Footnote reference in text */
+.footnote {
+  vertical-align: baseline;
+  font-size: 1em;
+  text-decoration: none;
+  color: #444;
+  padding: 0 2px;
+}
+
+.footnote::before {
+  content: '[';
+}
+
+.footnote::after {
+  content: ']';
+}
+
+/* Footnote list at bottom */
+.footnotes {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid #444;
+}
+
+.footnotes ol {
+  padding-left: 20px;
+}
+
+.footnotes li {
+  font-size: 0.9em;
+  color: #444;
+  margin-bottom: 10px;
+  scroll-margin-top: 2em;
+}
+
+.footnotes li p {
+  display: inline;
+}
+
+.footnotes li a {
+  color: rgb(16, 16, 16);
+  text-decoration: underline;
+}
+
+/* Return link */
+.reversefootnote {
+  text-decoration: none;
+  margin-left: 5px;
+}

@@ -10,7 +10,7 @@ date: 2025-01-07 9:50:00
 
 > "The media are so pervasive in their personal, political, economic, aesthetic, psychological, moral, ethical, and social consequences that they leave no part of us untouched, unaffected, unaltered."
 >   
-> **Marshall McLuhan** *The Medium is the Massage* (1967)
+> **Marshall McLuhan**, *The Medium is the Massage* (1967)
 
 When considering this, I have moved beyond today's generative AI tools, as they're used in a very **discrete** manner and currently work more or less in isolation of each other. Instead, I'm assuming all of these technologies will converge to achieve **ubiquitous AI**. I see this future of ubiquitous AI as yet another (albeit very powerful) medium. It is—without a doubt—going to shake us up, in every way.
 
@@ -22,13 +22,13 @@ As yet another medium—perhaps the most transformative one yet—**ubiquitous A
 
 > "All media are extensions of some human faculty—psychic or physical."
 >   
-> **Marshall McLuhan** *The Medium is the Massage* (1967)
+> **Marshall McLuhan**, *The Medium is the Massage* (1967)
 
 Our brain (cognition) will be augmented via personal assistants that can see the world along with us; seeing, understanding, speaking, and performing actions on our behalf, all in realtime. Our senses will be augmented via worn devices. This is already happening today with AirPods (audio) and VR/AR headsets (vision); these technologies will naturally continue to converge and layer onto our lived existence. Our social and emotional faculties will be augmented with social AIs. There are some obvious moral/ethical conversations to be had here, but AI 'friends', coworkers, and partners will be able to optimize for stimulating conversations, provide emotional support and empathy, tell all the right jokes, etc.
 
 > "Media, by altering the environment, evoke in us unique ratios of sense perceptions. The extension of any one sense alters the way we think and act—the way we perceive the world. When these ratios change, men change."
 >   
-> **Marshall McLuhan** *The Medium is the Massage* (1967)
+> **Marshall McLuhan**, *The Medium is the Massage* (1967)
 
 And they will change profoundly.
 
