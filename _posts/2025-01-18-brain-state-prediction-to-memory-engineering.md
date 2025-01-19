@@ -1,14 +1,21 @@
 ---
 layout: posts
-title: From Brain State Prediction to Memory Engineering
+title: "AI Thinks I Want a Coffee: Brain State Prediction, Memory Engineering, and the Future of Human Experience"
 excerpt: "Recent breakthroughs in brain activity modeling hint at a future where memories become malleable digital constructs."
 tags: [thought]
 date: 2025-01-18 10:30:00
 ---
 
+## Abstract
+
+Recent breakthroughs in brain state prediction, powered by transformer-based AI architectures, mark a pivotal moment in neurotechnology. By successfully predicting neural activity with unprecedented accuracy, these advances parallel developments in language models and world generation systems, suggesting a convergent future where brain states become both predictable and malleable. This article examines the trajectory from current neural prediction capabilities to potential future applications in memory engineering and experience design. We explore the emergence of prediction-generation feedback loops, where AI systems not only forecast but actively shape neural states, raising fundamental questions about free will, consciousness, and the nature of authentic experience. The implications extend beyond individual cognition to collective consciousness and social dynamics, necessitating new frameworks for understanding agency and ethics in an era of engineered neural states. As these technologies mature, they promise to transform not only how we remember our past but how we experience our present and shape our future, presenting both extraordinary opportunities and profound challenges for human experience and society.
+
+
 > "The past is never dead. It's not even past."
 >
 > **William Faulkner**, *Requiem for a Nun* (1950)
+
+## Part 1: Brain State Prediction
 
 A recent paper from researchers at the University of Sydney demonstrates something remarkable: **AI can predict brain states**[^1]. Using the transformer architecture—the same technology powering modern AI language models—researchers successfully predicted ~5 seconds of brain activity from ~20 seconds of recorded data. 
 
@@ -69,7 +76,7 @@ The company is currently in the process of opening up a new store.
 
 ### Trajectory of Impending Improvements
 
-The brain study reminds me of GPT-3. In the same way that we provided some context and examples to GPT-3 with our input prompt, the 20 seconds of fMRI data is providing context and examples to the brain state prediction model. Along these lines then, the same way that GPT-3 completes the text from our input prompts, the brain state prediction model can predict the next few brain states from the fMRI input data. It stands to reason that the improvements we have seen in LLMs since GPT-3 will be seen in brain state prediction. Not only is this logical from the standpoint of continous technology advancement (we have nowhere to progress but forward), but much of the groundwork required for these improvements have already been laid. 
+The brain study reminds me of GPT-3. In the same way that we provided some context and examples to GPT-3 with our input prompt, the 20 seconds of fMRI data is providing context and examples to the brain state prediction model. Along these lines then, the same way that GPT-3 completes the text from our input prompts, the brain state prediction model can predict the next few brain states from the fMRI input data. It stands to reason that the improvements we have seen in LLMs since GPT-3 will be seen in brain state prediction. Not only is this logical from the standpoint of continuous technology advancement (we have nowhere to progress but forward), but much of the groundwork required for these improvements have already been laid. 
 
 Soon we should see analogous improvements in brain state prediction along the lines of:
 - **Increased input length:** longer fMRI history provided as contextual input to the model. 
@@ -145,19 +152,19 @@ When both forces converge, the act of predicting the future begins to resemble t
 - **Self-Fulfilling Prophecy:** If you can precisely anticipate how someone will feel or act, and if you can shape their environment accordingly, that prediction can become a self-fulfilling prophecy.
 - **Probability vs. Certainty:** Probability might lose its traditional meaning if we can nudge events into becoming certainties. Are we truly guessing at the future, or are we proactively eliminating alternative outcomes?
 - **Blurred Reality:** As generation fidelity climbs, the difference between a "natural" brain state and an "artificial" or "guided" one becomes murky. When every experience is curated to meet a predictive model's blueprint, "authentic" reality and "designed" reality can start to feel indistinguishable.
-- **Shared vs. Competing Agents:** In a multi-agent world, other people (or other AI systems) are also predicting and shaping outcomes. Whose predictions "win" in the event of a conflict or divergence? This raises questions about collective free will and societal consensus. Are my experiences, interactions, and brain states the ones being optimized, am I part of a collective that is being optimized, or am I simply some non-optimizal weight that is part of someone else's optimization?
+- **Shared vs. Competing Agents:** In a multi-agent world, other people (or other AI systems) are also predicting and shaping outcomes. Whose predictions "win" in the event of a conflict or divergence? This raises questions about collective free will and societal consensus. Are my experiences, interactions, and brain states the ones being optimized, am I part of a collective that is being optimized, or am I simply some non-optimal weight that is part of someone else's optimization?
 
-### Implications to Free Will in a Predictable World
+## Part 2: Implications to Free Will in a Predictable World
 
 As our ability to predict and generate brain states advances, we face a fundamental question: how far ahead can we accurately forecast neural activity? If these models continue to scale—following the trajectory we've seen with language and world models—could we extend predictions from seconds to minutes, hours, or even days?
 
-**Individual Agency**
+### Individual Agency
 
 When you get driving directions, do you follow the route that has been planned for you?
 
-When your next brain state can be predicted with 99.7% accuracy and that prediction then shapes the environment you’ll experience, is your response truly free? We’re moving beyond simple behavioral prediction into a realm where the very neural patterns that underlie our thoughts and decisions can be forecast—and potentially influenced—before we’re even aware of them. 
+When your next brain state can be predicted with 99.7% accuracy and that prediction then shapes the environment you'll experience, is your response truly free? We're moving beyond simple behavioral prediction into a realm where the very neural patterns that underlie our thoughts and decisions can be forecast—and potentially influenced—before we're even aware of them. 
 
-Consider a short-term example: If the system predicts you’ll crave coffee in 10 seconds—and automatically adjusts your environment (maybe delivering a push notification or adjusting aromas)—did you choose coffee, or did the system simply steer you toward it? 
+Consider a short-term example: If the system predicts you'll crave coffee in 10 seconds—and automatically adjusts your environment (maybe by delivering a push notification or adjusting aromas)—did you choose coffee, or did the system simply steer you toward it? 
 
 Again, when you get driving directions, do you follow the route that has been planned for you? It's likely. But of course, if you so choose, you could take another route or drive off the road altogether. But do you? This is a crude example. For better and worse, I do not think it will be this overt. In reality, you will not even be aware that you are being steered towards coffee. You simply became aware that you wanted a coffee—well after enough time had passed that your AI was already bored of this eventuality—and magically one was ready for you. Success! 
 
@@ -165,34 +172,34 @@ Again, when you get driving directions, do you follow the route that has been pl
 
 Either way, such scenarios highlight a subtle but profound shift. The more accurate predictions become, the more effectively they will be able to shape your immediate reality, blurring the line between **anticipating your choices** and **producing them**.
 
-**Networked Consciousness**
+### Networked Consciousness
 
-The complexity deepens when multiple individuals enter the picture. Each person exists within their own prediction–generation loop, but these loops aren’t isolated. In the now infamous 2014 study [^13], Facebook showed the ability to transfer and predict emotional states among a population of nearly 700,000 users, "leading people to experience the same emotions without their awareness."
+The complexity deepens when multiple individuals enter the picture. Each person exists within their own prediction–generation loop, but these loops aren't isolated. In the now infamous 2014 study [^13], Facebook showed the ability to transfer and predict emotional states among a population of nearly 700,000 users, "leading people to experience the same emotions without their awareness."
 
 ```
-In an experiment with people who use Facebook, we test whether emotional contagion occurs outside of in-person interaction between individuals by reducing the amount of emotional content in the News Feed. When positive expressions were reduced, people produced fewer positive posts and more negative posts; when negative expressions were reduced, the opposite pattern occurred. These results indicate that emotions expressed by others on Facebook influence our own emotions, constituting experimental evidence for massive-scale contagion via social networks. This work also suggests that, in contrast to prevailing assumptions, in-person interaction and nonverbal cues are not strictly necessary for emotional contagion, and that the observation of others’ positive experiences constitutes a positive experience for people.
+In an experiment with people who use Facebook, we test whether emotional contagion occurs outside of in-person interaction between individuals by reducing the amount of emotional content in the News Feed. When positive expressions were reduced, people produced fewer positive posts and more negative posts; when negative expressions were reduced, the opposite pattern occurred. These results indicate that emotions expressed by others on Facebook influence our own emotions, constituting experimental evidence for massive-scale contagion via social networks. This work also suggests that, in contrast to prevailing assumptions, in-person interaction and nonverbal cues are not strictly necessary for emotional contagion, and that the observation of others' positive experiences constitutes a positive experience for people.
 ```
 
 If this was possible with nearly a million users in 2014 based "only" on social media profiles and interactions, imagine the scale of what will be possible when we can predict, transfer, and generate emotional states and brain states. In such a network, where does true autonomy reside? Is each person freely acting, or are we participants in a grand feedback loop of predictions, influences, and reinforced behaviors? 
 
-**Collective Determinism**
+### Collective Determinism
 
-These intertwined loops raise a crucial question: in a world where everyone’s brain states are being predicted and subtly shaped, who—or what—is steering the ship?
+These intertwined loops raise a crucial question: in a world where everyone's brain states are being predicted and subtly shaped, who—or what—is steering the ship?
 
 1. **Personal Models:** predict and influence individual brain states.
 2. **Social Models:** anticipate and shape group dynamics—family, friends, entire communities.
 3. **Environmental Systems:** smart homes, immersive XR interfaces, etc. generate experiences based on these aggregated predictions.
 
-All of this unfolds in a continuous feedback loop. The traditional notion of free will assumes a degree of autonomy in our decision-making. But as neural states become more predictable, networked, and molded by external cues, the boundary between genuine choice and predictive determinism begins to fade. We may still feel like we’re making choices, yet the system itself may be orchestrating events in ways imperceptible to us.
+All of this unfolds in a continuous feedback loop. The traditional notion of free will assumes a degree of autonomy in our decision-making. But as neural states become more predictable, networked, and molded by external cues, the boundary between genuine choice and predictive determinism begins to fade. We may still feel like we're making choices, yet the system itself may be orchestrating events in ways imperceptible to us.
 
 In this context, I ask again: are my experiences, interactions, and brain states the ones being optimized for, are yours the ones being optimized for, or are we all part of a collective that is being optimized? Or (exhaustingly) are our actions and experiences all now just finally able to be imperceivably steered to optimize returns for the highest bidders?
 
-**Self-Fulfilling Prophecies and the Illusion of Choice**
+### Self-Fulfilling Prophecies and the Illusion of Choice
 
-This isn’t just philosophical speculation—the Facebook experiment showed how emotional states can propagate through networks “without direct interaction between people” and “in the complete absence of nonverbal cues.” Now imagine that same principle guided by direct brain-state prediction and generation:
+This isn't just philosophical speculation—the Facebook experiment showed how emotional states can propagate through networks "without direct interaction between people" and "in the complete absence of nonverbal cues." Now imagine that same principle guided by direct brain-state prediction and generation:
 
-- If the model forecasts you’ll experience sadness, it might (inadvertently or by design) arrange conditions that reinforce that mood. In effect, the sadness becomes both predicted and produced.
-- If the system “anticipates” your curiosity about a topic, it can feed you precisely the stimuli to deepen that curiosity—culminating in a reality shaped by forecasts rather than spontaneous impulse.
+- If the model forecasts you'll experience sadness, it might (inadvertently or by design) arrange conditions that reinforce that mood. In effect, the sadness becomes both predicted and produced.
+- If the system "anticipates" your curiosity about a topic, it can feed you precisely the stimuli to deepen that curiosity—culminating in a reality shaped by forecasts rather than spontaneous impulse.
 
 Or maybe it will not be so sinister. Maybe we will be able to set preferences that that can be used to shape our experiences. For example: weight loss. Did your model predict that you're about to crave that extra slice of pizza? Maybe the generative model can pivot or spur to action to proactively distract you, preemptively curbing that craving before it ever existed. Or did your model predict that you're about to be sad? Maybe your AI assistant can come in with positive words of encouragement, recall a recent memory of a time you were happy, or conjur up [a scene of utmost cuteness](https://www.tiktok.com/@openai/video/7336713538532134186){:target="_blank"}.
 
@@ -200,57 +207,60 @@ Or maybe it will not be so sinister. Maybe we will be able to set preferences th
 
 Where does free will fit when experiences are so finely tuned to match the model's expectation? Are you living your life, or living the model's output? [Will we live meaninglessly perfect lives or perfectly meaningless lives]({% post_url 2025-01-03-perfect-or-meaningless-lives %}){:target="_blank"}?
 
-**Toward a New Ethics of Prediction**
+### Toward a New Ethics of Prediction
 
 As these predictive and generative loops become more refined, the question of responsibility and consent looms large:
 
 - **Personal Autonomy:** How can individuals maintain agency in a world of micro-nudges, immersive feedback, and near-perfect forecasts?
 - **Collective Well-Being:** When entire communities or social platforms utilize brain-state predictions, do they optimize for engagement, well-being, profit—or something else?
-- **Transparency and Governance:** What safeguards or regulations ensure that predictive power isn’t abused—intentionally or unintentionally—to manipulate emotions, thoughts, or behaviors?
+- **Transparency and Governance:** What safeguards or regulations ensure that predictive power isn't abused—intentionally or unintentionally—to manipulate emotions, thoughts, or behaviors?
 
-We’re entering a new era, one where the capacity to predict our minds is intertwined with the power to shape them. Whether that convergence leads to a richer, more enlightened human experience or a subtle erosion of freedom depends on choices we make now—about ethics, governance, and the very definition of autonomy in a world where free will itself may become entangled in the loops of prediction and generation.
+We're entering a new era, one where the capacity to predict our minds is intertwined with the power to shape them. Whether that convergence leads to a richer, more enlightened human experience or a subtle erosion of freedom depends on choices we make now—about ethics, governance, and the very definition of autonomy in a world where free will itself may become entangled in the loops of prediction and generation.
 
-## The Memory Engineering Horizon
+## Part 3: The Memory Engineering Horizon
 
-Imagine a neural interface that could read your brain's activity patterns and, combined with advanced AI, allow you to:
+The convergence of brain state prediction and generation opens doors far beyond simple influence or control. One compelling possibility emerges: **the ability to reconstruct, enhance, and even share experiences at the neural level.**
 
-- Relive memories with enhanced clarity, as AI fills in the gaps in your recollection
-- Adjust the emotional tone of remembered experiences
-- Share processed, encoded memories with others
-- Preserve personality patterns for future interaction
-- Process and reshape traumatic memories in a controlled environment
+Today, virtual reality headsets are already used in healthcare to help manage pain or anxiety, such as during chemotherapy sessions [^14][^15][^16]. These devices distract patients with calming or engaging 3D environments, reducing perceived discomfort. Although they only offer visual and auditory stimuli, it's not a huge leap to imagine next-generation neural interfaces—initially noninvasive, but far more sensitive—tapping directly into the brain's activity. Over time, these interfaces could evolve to become capable of recording, editing, and even playing back our internal experiences. What begins as a modest enhancement to VR might eventually become a profound tool for immersive memory recall, emotional regulation, and shared experiences.
 
-These aren't just science fiction concepts anymore. The technical foundation - predicting and generating coherent brain states - is already being laid.
+Consider this (somewhat morbid) science fiction scenario: You're on your deathbed in hospice care. To help remove you from the confines of your physical body, you're offered a neural interface—a "memory helmet" of sorts. This headset accesses your memories and allows you to relive your life over the course of a few hours. Advanced AI fills in the gaps in your fuzzy memories. Global parameters like a "luck slider" can be turned up or down to ensure that your experience is overall enjoyable. After your session, the device is removed and wiped clean for the next patient.
 
-## Beyond Simple Recall
+Such a device would allow you to:
+- Relive memories with enhanced clarity, as AI fills in the gaps in your recollection, with parameters analogous to today's 'temperature' in LLMs allowing you to control the level of precision vs creativity in your experience.
+- Adjust the emotional tone of remembered experiences.
+- Share processed, edited, or enhanced memories with others.
+- Preserve personality patterns for future interaction.
+- Process and reshape traumatic memories in a controlled environment.
 
-The implications extend far beyond just better memory recall. When memories become editable digital constructs, we enter uncharted territory:
+These aren't just science fiction concepts anymore. The technical foundation—predicting and generating coherent brain states—is already being laid.
 
-- How does optimizing or enhancing memories affect our sense of self?
-- What happens to personal identity when memories can be shared or experienced collectively?
-- Could we develop "memory engineering" as a therapeutic tool?
-- What are the ethics of modifying or sharing intimate neural experiences?
+### Beyond Memory: Reshaping Reality
 
-The researchers focused on immediate medical applications - reducing scan times, predicting seizures, advancing brain-computer interfaces. But they've demonstrated something more fundamental: the mathematical frameworks we use to model language and thought can also model physical brain states.
+The implications extend far beyond memory manipulation. As these technologies mature, we're approaching an era where the line between memory, present experience, and future prediction begins to blur. The same systems that can reconstruct and enhance memories could be used to shape real-time experiences and even pre-emptively generate desired future states.
 
-## The Road Ahead
+This convergence of capabilities creates something more profound than simple memory enhancement. Brain state prediction determines your likely future emotional states while world models generate environments and experiences tailored to those states. Neural feedback systems adjust your current state in real-time, memory enhancement systems store and optimize these experiences, and social networks share and synchronize these experiences across individuals.
 
-We're still far from full memory manipulation. Current prediction windows are short, error accumulation remains a challenge, and we're working with relatively coarse fMRI data. But consider:
+What emerges is a kind of "reality engineering" where experiences aren't just remembered or lived but actively crafted. Rather than waiting for experiences to happen, systems could create optimal scenarios based on predicted desires and needs. Environmental and neural states could be modified in real-time to maintain desired experiences. Groups of people might share coordinated experiences, creating collective realities. The boundary between past memories, present experiences, and anticipated futures becomes increasingly fluid.
 
-- Higher resolution brain interfaces are in development
-- AI architectures grow more sophisticated by the month
-- Our understanding of neural organization deepens constantly
-- Quantum computing looms on the horizon
+The question transforms from "what memories do we want to preserve?" to "what reality do we want to experience?"
 
-The question isn't if we'll achieve this level of neural engineering, but when - and more importantly, how we'll handle it when we do.
+### Fabricating Entirely New Experiences
 
-> "The future is already here – it's just not evenly distributed."
->
-> **William Gibson**
+While the idea of re-living or refining real memories is already radical, these same tools could go further: fabricating experiences that never happened. Imagine a neural interface creating a vivid "memory" of an Italian vacation you never actually took—complete with the taste of fresh gelato and the warmth of sunshine on your skin. If the system's generative power were convincing enough, you might come to cherish these artificially constructed moments every bit as much as real ones. Initially, these experiences might take place in VR-like headsets, but as neural interfaces evolve, the might be able to be experienced completely synthetically (similar to how kung fu was learned in The Matrix)
 
-As we stand at the threshold of this technology, we have a unique opportunity to shape its development. The technical foundations are being laid. The ethical frameworks need to catch up.
+The implications are staggering. Would such memories be considered inauthentic, or could they be embraced like a favorite book or film? If every sensation—from the crunch of gravel underfoot to the distant murmur of Italian conversation—feels real at the neural level, how thick is the line between lived experience and imagination? 
 
-What kind of future do we want to build when memories become malleable?
+### The Path Forward
+
+We stand at a crucial juncture. The technical foundations for neural engineering are being laid faster than our ethical frameworks can adapt. How do we preserve personal autonomy in a predicted world? What constitutes authentic experience when every memory and moment can be enhanced? Who owns neural data, and how do we protect it? As these technologies become available, who gets access to them? And how do we handle collective consent when experiences can be shared across neural networks?
+
+The societal impact promises to be profound. We're not just redefining human experience and consciousness; we're transforming how people interact and relate to one another. What will interactions look like between people who are living life augmented by this AI and those who are not?
+
+When memories can be reimaged and relived, the past isn't just alive—it's malleable. When we can predict, generate realities, and modify neural states at will, the present isn't just happening—it's being engineered. The future isn't just coming—it's being actively shaped.
+
+Will we use these tools to heal trauma and expand individual and collective consciousness, or will we trap ourselves within optimized but artificial realities? What kind of reality do we want to remember? What kind of reality do we want to relive? 
+
+The future of human experience—past, present, and future—hangs in the balance.
 
 [^1]: Sun, Y., Cabezas, M., Lee, J., Wang, C., Zhang, W., Calamante, F., & Lv, J. (2024). "Predicting Human Brain States with Transformer." <a href="https://arxiv.org/abs/2412.19814" target="_blank">arXiv:2412.19814</a>
 
@@ -277,3 +287,9 @@ What kind of future do we want to build when memories become malleable?
 [^12]: Liang, H., Cao, J., Goel, V., Qian, G., Korolev, S., Terzopoulos, D., Plataniotis, K. N., Tulyakov, S., & Ren, J. (2024). "Wonderland: Navigating 3D Scenes from a Single Image." <a href="https://arxiv.org/abs/2412.12091" target="_blank">arXiv:2412.12091</a>
 
 [^13]: Kramer, A. D. I., Guillory, J. E., & Hancock, J. T. (2014). "Experimental evidence of massive-scale emotional contagion through social networks." *Proceedings of the National Academy of Sciences*, 111(24), 8788-8790. <a href="https://doi.org/10.1073/pnas.1320040111" target="_blank">https://doi.org/10.1073/pnas.1320040111</a>
+
+[^14]: Schneider, S. M., & Workman, M. L. (1999). "Effects of Virtual Reality on Symptom Distress in Children Receiving Chemotherapy." *CyberPsychology & Behavior*, 2(2), 125-134. <a href="https://doi.org/10.1089/cpb.1999.2.125" target="_blank">https://doi.org/10.1089/cpb.1999.2.125</a>
+
+[^15]: Schneider, S. M., Prince-Paul, M., Allen, M. J., Silverman, P., & Talaba, D. (2004). "Virtual Reality as a Distraction Intervention for Women Receiving Chemotherapy." *Oncology Nursing Forum*, 31(1), 81-88. <a href="https://www.ons.org/system/files/journal-article-pdfs/Y5465J467K523L64.pdf" target="_blank">PDF</a>
+
+[^16]: Schneider, S. M., & Hood, L. E. (2007). "Virtual Reality: A Distraction Intervention for Chemotherapy." *Oncology Nursing Forum*, 34(1), 39-46. <a href="https://doi.org/10.1188/07.ONF.39-46" target="_blank">https://doi.org/10.1188/07.ONF.39-46</a>
