@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "AI Thinks I Want a Coffee: Brain State Prediction, Memory Engineering, and the Future of Human Experience"
-excerpt: "Recent breakthroughs in brain activity modeling hint at a future where memories become malleable digital constructs."
+excerpt: "From predicting neural patterns to engineering memories, emerging AI technologies blur the line between forecasting the future and creating it."
 tags: [thought]
 date: 2025-01-18 10:30:00
 ---
@@ -9,11 +9,6 @@ date: 2025-01-18 10:30:00
 ## Abstract
 
 Recent breakthroughs in brain state prediction, powered by transformer-based AI architectures, mark a pivotal moment in neurotechnology. By successfully predicting neural activity with unprecedented accuracy, these advances parallel developments in language models and world generation systems, suggesting a convergent future where brain states become both predictable and malleable. This article examines the trajectory from current neural prediction capabilities to potential future applications in memory engineering and experience design. We explore the emergence of prediction-generation feedback loops, where AI systems not only forecast but actively shape neural states, raising fundamental questions about free will, consciousness, and the nature of authentic experience. The implications extend beyond individual cognition to collective consciousness and social dynamics, necessitating new frameworks for understanding agency and ethics in an era of engineered neural states. As these technologies mature, they promise to transform not only how we remember our past but how we experience our present and shape our future, presenting both extraordinary opportunities and profound challenges for human experience and society.
-
-
-> "The past is never dead. It's not even past."
->
-> **William Faulkner**, *Requiem for a Nun* (1950)
 
 ## Part 1: Brain State Prediction
 
@@ -156,6 +151,10 @@ When both forces converge, the act of predicting the future begins to resemble t
 
 ## Part 2: Implications to Free Will in a Predictable World
 
+> "The future cannot be predicted, but futures can be invented."
+>
+> **Dennis Gabor**, *Inventing the Future* (1963)
+
 As our ability to predict and generate brain states advances, we face a fundamental question: how far ahead can we accurately forecast neural activity? If these models continue to scale—following the trajectory we've seen with language and world models—could we extend predictions from seconds to minutes, hours, or even days?
 
 ### Individual Agency
@@ -203,7 +202,7 @@ This isn't just philosophical speculation—the Facebook experiment showed how e
 
 Or maybe it will not be so sinister. Maybe we will be able to set preferences that that can be used to shape our experiences. For example: weight loss. Did your model predict that you're about to crave that extra slice of pizza? Maybe the generative model can pivot or spur to action to proactively distract you, preemptively curbing that craving before it ever existed. Or did your model predict that you're about to be sad? Maybe your AI assistant can come in with positive words of encouragement, recall a recent memory of a time you were happy, or conjur up [a scene of utmost cuteness](https://www.tiktok.com/@openai/video/7336713538532134186){:target="_blank"}.
 
-*But wait, was it my free will to set these preferences in the first place?*
+*But wait, was it my free will to set these preferences in the first place or was I expertly nudged (read: guided and/or manipulated) into setting them?*
 
 Where does free will fit when experiences are so finely tuned to match the model's expectation? Are you living your life, or living the model's output? [Will we live meaninglessly perfect lives or perfectly meaningless lives]({% post_url 2025-01-03-perfect-or-meaningless-lives %}){:target="_blank"}?
 
@@ -218,6 +217,10 @@ As these predictive and generative loops become more refined, the question of re
 We're entering a new era, one where the capacity to predict our minds is intertwined with the power to shape them. Whether that convergence leads to a richer, more enlightened human experience or a subtle erosion of freedom depends on choices we make now—about ethics, governance, and the very definition of autonomy in a world where free will itself may become entangled in the loops of prediction and generation.
 
 ## Part 3: The Memory Engineering Horizon
+
+> "The past is never dead. It's not even past."
+>
+> **William Faulkner**, *Requiem for a Nun* (1950)
 
 The convergence of brain state prediction and generation opens doors far beyond simple influence or control. One compelling possibility emerges: **the ability to reconstruct, enhance, and even share experiences at the neural level.**
 
