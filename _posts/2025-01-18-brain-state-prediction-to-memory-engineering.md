@@ -232,10 +232,10 @@ Today, virtual reality headsets are already used in healthcare to help manage pa
 
 Consider this (somewhat morbid) science fiction scenario: You're on your deathbed in hospice care. To help remove you from the confines of your physical body, you're offered a neural interface—a "memory helmet" of sorts. This headset accesses your memories and allows you to relive your life over the course of a few hours. Advanced generativeAI fills in the gaps in your fuzzy memories. Global parameters like a "luck slider" can be turned up or down to ensure that your experience is overall enjoyable. After your session, the device is removed and wiped clean for the next patient.
 
-<img src="/assets/coffee/three-body-problem.jpg" alt="The neural 'VR' headset featured in 3 Body Problem." style="width: 100%; display: block; margin: auto;" class="post-media">
+<img src="/assets/coffee/three-body-problem.jpg" alt="The neural 'VR' headset featured in Netflix's 3 Body Problem." style="width: 100%; display: block; margin: auto;" class="post-media">
 
 Such a device would allow you to:
-- Relive memories with enhanced clarity: an AI fills in the gaps in your recollection with parameters allowing you to control the level of precision vs creativity, luck, etc. in your experience (analogous to today's 'temperature' in LLMs).
+- Relive memories with enhanced clarity: an AI fills in the gaps in your recollection with parameters allowing you to control the level of precision vs creativity, luck, etc. in your experience (analogous to 'temperature' in LLMs, today).
 - Adjust the emotional tone of remembered experiences.
 - Share processed, edited, or enhanced memories with others.
 - Preserve personality patterns for future interaction / digital cloning.
@@ -274,7 +274,7 @@ The societal impact promises to be profound. We're not just redefining human exp
 
 When memories can be reimaged and relived, the past isn't just alive—it's malleable. When we can predict, generate realities, and modify neural states at will, the present isn't just happening—it's being actively shaped. The future isn't just coming—it's being engineered.
 
-Will we use these tools to heal trauma and expand individual and collective consciousness? Or will we trap ourselves within optimized artificial realities? **What kind of reality do you want to remember? What kind of reality do you want to relive? What kind of reality do you want to engineer?**
+Will we use these tools to heal trauma and expand individual and collective consciousness? Or will we trap ourselves within optimized artificial realities? What kind of reality do you want to remember? What kind of present do you want to engineer? **What kind of tomorrow do you want to relive?**
 
 
 [^1]: Sun, Y., Cabezas, M., Lee, J., Wang, C., Zhang, W., Calamante, F., & Lv, J. (2024). "Predicting Human Brain States with Transformer." <a href="https://arxiv.org/abs/2412.19814" target="_blank">arXiv:2412.19814</a>
