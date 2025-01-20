@@ -305,5 +305,7 @@ pre, code {
   border: 1px solid rgba(16, 16, 16, 1.0);
   border-radius: 3px;
   background-color: rgba(255, 205, 0, 0.03);
-  text-wrap: pretty;
+  text-wrap: wrap;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
