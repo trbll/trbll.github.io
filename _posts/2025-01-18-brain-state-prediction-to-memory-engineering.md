@@ -232,7 +232,7 @@ Today, virtual reality headsets are already used in healthcare to help manage pa
 
 Consider this (somewhat morbid) science fiction scenario: You're on your deathbed in hospice care. To help remove you from the confines of your physical body, you're offered a neural interface—a "memory helmet" of sorts. This headset accesses your memories and allows you to relive your life over the course of a few hours. Advanced generativeAI fills in the gaps in your fuzzy memories. Global parameters like a "luck slider" can be turned up or down to ensure that your experience is overall enjoyable. After your session, the device is removed and wiped clean for the next patient.
 
-<img src="/assets/coffee/three-body-problem.jpg" alt="The neural 'VR' headset featured in 3 Body Problem." style="width: 100%; display: block; margin: auto;">
+<img src="/assets/coffee/three-body-problem.jpg" alt="The neural 'VR' headset featured in 3 Body Problem." style="width: 100%; display: block; margin: auto;" class="post-media">
 
 Such a device would allow you to:
 - Relive memories with enhanced clarity: an AI fills in the gaps in your recollection with parameters allowing you to control the level of precision vs creativity, luck, etc. in your experience (analogous to today's 'temperature' in LLMs).
@@ -255,9 +255,14 @@ The question transforms from **"What will you choose to remember?"** to **"What 
 
 ### Fabricating Entirely New Experiences
 
-<img src="/assets/coffee/italy.jpg" alt="AI Image of an Italian Vacation. Fresh gelato and warm sunshine." style="width: 100%; display: block; margin: auto;">
+<p>
+<video autoplay loop muted playsinline style="width: 100%; display: block; margin: auto;" class="post-media">
+    <source src="/assets/coffee/italy-video.mp4" type="video/mp4">
+    <img src="/assets/coffee/italy.jpg" alt="AI Image of an Italian Vacation. Fresh gelato and warm sunshine." style="width: 100%; display: block; margin: auto;">
+</video>
+</p>
 
-While the idea of re-living or refining real memories is already radical, these same tools could go further: fabricating experiences that never happened. Imagine a neural interface creating a vivid "memory" of an Italian vacation you never actually took—complete with the taste of fresh gelato and the warmth of sunshine on your skin. If the system's generative power were convincing enough, you might come to cherish these artificially constructed moments every bit as much as real ones. Initially, these experiences might take place in VR-like headsets, but as neural interfaces evolve, they might be able to be experienced completely synthetically (similar to how kung fu was learned in The Matrix)
+While the idea of re-living or refining real memories is already radical, these same tools could go further: fabricating experiences that never happened. Imagine a neural interface creating a vivid "memory" of an Italian vacation you never actually took—complete with the taste of fresh gelato and the warmth of sunshine on your skin. If the system's generative power were convincing enough, you might come to cherish these artificially constructed moments every bit as much as real ones. Initially, these experiences might take place in VR-like headsets, but as neural interfaces evolve, they might be able to be experienced completely synthetically (<a href="https://youtu.be/0YhJxJZOWBw?si=sDcWKEyxGQFA1V9t&t=7" target="_blank">similar to how kung fu was learned in The Matrix</a>)
 
 The implications are staggering. Would such memories be considered authentic? Or maybe they'll be embraced and shared like a favorite book or film? If every sensation—from the crunch of gravel underfoot to the distant murmur of Italian conversation—feels real at the neural level, **how thick is the line between lived experience and imagination?**
 

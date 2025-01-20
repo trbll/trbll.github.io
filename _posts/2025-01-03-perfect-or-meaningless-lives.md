@@ -12,7 +12,7 @@ date: 2025-01-03 8:07:00
 >   
 > **John Cage**
 
-<img src="/assets/perfect-or-meaningless-lives/title-image.jpg" alt="Perfectly Meaningless Lives or Meaninglessly Perfect Lives?" style="width: 100%; display: block; margin: auto;">
+<img src="/assets/perfect-or-meaningless-lives/title-image.jpg" alt="Perfectly Meaningless Lives or Meaninglessly Perfect Lives?" style="width: 100%; display: block; margin: auto;" class="post-media">
 
 **Ubiquitous AI** will be "always-on" and integrated into every aspect of every day life. Multi-modal agents will be able to see, hear, think, talk (and move and interact), all in real-time. With this input, our AI agents will be able to perceive, conceive, and adapt. Teams of agents will proactively work for us in the background (understanding, assisting, enhancing), silently spinning in an attempt to optimize every part of our lives. **Our work, our play, our interactions.**
 
